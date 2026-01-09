@@ -1,2 +1,9 @@
-# ASK2026_CO2-Underground-Storage-Stability-Evaluation-Using-Deep-Learning
-팀원: 정지성, 김민지, 김주연, 김영균
+## :link: :1st_place_medal: ASK2026 : 딥러닝을 활용한 CO2 지중 저장소 안정성 평가
+
+주제 : 딥러닝을 활용한 CO2 지중 저장소 안정성 평가
+
+* **저자 : 정지성, 김민지, 김주연, 김영균**
+
+---
+
+### :link: :one: 데이터 셋
