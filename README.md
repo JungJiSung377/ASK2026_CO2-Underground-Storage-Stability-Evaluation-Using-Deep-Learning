@@ -10,7 +10,7 @@
 [![Reinforcement Learning](https://img.shields.io/badge/RL-PPO-blueviolet.svg)](https://stable-baselines3.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-본 연구에서는 탄소중립 실현을 위한 **CO2 지중 저장 기술(CCS)**의 안정성을 평가하고 최적의 주입 시나리오를 도출하기 위해 **물리 정보 신경망(PINNs)**, **불확실성 정량화(PCE)**, 그리고 **강화학습(PPO)**을 통합한 차세대 의사결정 시스템을 제안하였습니다.
+본 연구에서는 탄소중립 실현을 위한 CO2 지중 저장 기술(CCS)의 안정성을 평가하고 최적의 주입 시나리오를 도출하기 위해 **물리 정보 신경망(PINNs)**, **불확실성 정량화(PCE)**, 그리고 강화학습(PPO)을 통합한 차세대 의사결정 시스템을 제안하였습니다.
 
 ---
 
